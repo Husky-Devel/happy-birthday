@@ -1,0 +1,22 @@
+
+
+.container {
+    width: 100%;
+    margin: 0;
+    padding: 50px;
+}
+#Work {
+    width: 100%;
+    border-radius: 0;
+
+}
+
+aside.right, aside.left {
+    text-align: center;
+    float: inherit;
+}
+
+body {
+    background: white;
+    font-family: 'Open Sans', arial, sans-serif;
+
